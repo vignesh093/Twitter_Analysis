@@ -1,1 +1,1 @@
-# Twitter_Analysis
+# Mapreduce program to analyze the twitter feeds in a text file to calculate number of hashtags,number of tweets,number of retweets,number of hyper links,number of words in a tweet,total number of tweets in the feed.
